@@ -1,16 +1,5 @@
 Deno + React native + Expo app to notify when a long running task is done.
 
-## Installation
-
-You will need a Deno build from this branch (going to be merged in Deno soon):
-
-```shell
-gh repo clone littledivy/deno
-git checkout expo_react_native
-
-cargo build --release --bin=deno
-```
-
 ## Usage
 
 Start Expo and connect via Expo Go app:
